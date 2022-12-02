@@ -1,4 +1,5 @@
-👋 Hi, I’m @voodoocode 💻 I am a frontend web developer
+👋 Hi, I’m @voodoocode 
+💻 I am a frontend web developer
 
 <!---
 voodoocode/voodoocode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
